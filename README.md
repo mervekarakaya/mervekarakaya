@@ -1,7 +1,7 @@
 ### Hi there 👋
-I graduated from Electronics and Communication Engineering as the top of the department and a high honor student. Additionally, I completed the Computer Engineering double major program as an honor student.
-I have experience with communication protocols such as UART, RS232, I2C, SPI, operating systems (Linux, RTOS), microprocessors, embedded system programming, FPGA, SoC.
-Furthermore, I worked on topics such as deep learning, machine learning and data science as part of my graduation projects.
+I graduated from Electronics and Communication Engineering as the top of the department and a high honor student. Additionally, I completed the Computer Engineering double major program as an honor student.</br>
+I have experience with communication protocols such as UART, RS232, I2C, SPI, operating systems (Linux, RTOS), microprocessors, embedded system programming, FPGA, SoC.</br>
+Furthermore, I worked on topics such as deep learning, machine learning and data science as part of my graduation projects.</br>
 <!--
 **mervekarakaya/mervekarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
